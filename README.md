@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alexander-dev284&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-dev284&layout=compact&theme=tokyonight&hide_border=true&locale=es&langs_count=8" alt="Lenguajes más usados" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexander-dev284&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexander-dev284&layout=compact&theme=tokyonight&hide_border=true&locale=es&langs_count=8" alt="Lenguajes más usados" />
 
 </div>
